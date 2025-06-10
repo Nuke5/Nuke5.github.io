@@ -71,18 +71,23 @@ author:
     - label: "TryHackMe"
       icon: "fab fa-fw fa-fa-link"
       url: "https://tryhackme.com/p/Buryhiminsand"
-
+    - label: "CTFTime"
+      icon: "fab fa-fw fa-link"
+      url: "https://ctftime.org/user/157003"
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Nuke5"
     - label: "Hack The Box"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-link"
       url: "https://app.hackthebox.com/profile/369069"
     - label: "TryHackMe"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-link"
       url: "https://tryhackme.com/p/Buryhiminsand"
+    - label: "CTFTime"
+      icon: "fab fa-fw fa-link"
+      url: "https://ctftime.org/user/157003"
 
 defaults:
   # _posts
