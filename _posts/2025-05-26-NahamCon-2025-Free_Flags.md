@@ -26,7 +26,7 @@ From the rules of the CTF almost all the flags unless specified by the CTF follo
 **`flag\{[0-9a-f]{32}\}`**. That means a `flag{}` wrapper with a 32-character lowercase hex string inside.
 Using the python code below to parse the free_flags.txt to find the right flag. 
 
-```ruby
+```python
 import re
 
 # Regex to match flag{32 hex characters}
