@@ -7,8 +7,8 @@ tags:
 ---
 This is a list of my Github Projects
 
-A  simple <a href="/_posts/2018-06-01-MusicPlayer.md">music player</a> written in C++
+A simple [music player](/_posts/2018-06-01-MusicPlayer.md) written in C++.
 
-A <a href="/_posts/2021-09-01-TicketingSystem.md">Residential Ticketing System</a> using the XAMPP stack
+A [Residential Ticketing System](/_posts/2021-09-01-TicketingSystem.md) using the XAMPP stack.
 
-A <a href="/_posts/2025-06-05-PDF-Cracking.md">PDF Decrpytion a tool for generating a wordlist to be used with PDFcrack.
+A [PDF Decrpytion](/_posts/2025-06-05-PDF-Cracking.md) a tool for generating a wordlist to be used with PDFcrack.

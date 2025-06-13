@@ -21,10 +21,11 @@ a haystack if you really know what you are looking for.
   
 **Download the file(s) below.**
 ```
+
 This challenge involved filtering the 3000 entries given in the text file to find the real flag.
 From the rules of the CTF almost all the flags unless specified by the CTF follow the format of
 **`flag\{[0-9a-f]{32}\}`**. That means a `flag{}` wrapper with a 32-character lowercase hex string inside.
-Using the python code below to parse the free_flags.txt to find the right flag. 
+Using the python code below to parse the free_flags.txt to find the right flag.
 
 ```python
 import re
@@ -44,5 +45,6 @@ with open('valid_flags.txt', 'w') as outfile:
     for flag in valid_flags:
         outfile.write(flag + '\n')
 ```
+
 This gives us
 **`flag{ae6b6fb0686ec594652afe9eb6088167}`**
